@@ -1,6 +1,6 @@
 import React from 'react';
 
-const NewPlace = () => {
+const NewTag = () => {
   return <h2>NewTag Works!</h2>
 };
 

@@ -16,7 +16,7 @@ const App = () => {
         <Route path="/" exact>
           <Users />
         </Route>
-        <Route path="/places/new" exact>
+        <Route path="/gamertags/new" exact>
           <NewTag />
         </Route>
         <Redirect to="/" />
